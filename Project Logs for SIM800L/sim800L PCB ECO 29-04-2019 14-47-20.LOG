@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=VBUS Pin=C7-1
+Removed Pin From Net: NetName=GND Pin=C7-2
+Removed Pin From Net: NetName=NetD1_1 Pin=R3-1
+Removed Pin From Net: NetName=NetD2_1 Pin=R4-1
+Change Component DesignItemId : Designator=D1 Old DesignItemId=LED2 New DesignItemId=LED-SMD
+Change Component DesignItemId : Designator=D2 Old DesignItemId=LED2 New DesignItemId=LED-SMD
+Change Component Comment : Designator=D1 Old Comment=BLUE New Comment=LED/0603
+Change Component Comment : Designator=D2 Old Comment=RED New Comment=LED/0603
+Change Component Description : Designator=D1 Old Description=Typical RED, GREEN, YELLOW, AMBER GaAs LED New Description=
+Change Component Description : Designator=D2 Old Description=Typical RED, GREEN, YELLOW, AMBER GaAs LED New Description=
+Change Component Library : Designator=D1 Old Library=Miscellaneous Devices.IntLib New Library=Pi_AddOn_Rev2.SchLib
+Change Component Library : Designator=D2 Old Library=Miscellaneous Devices.IntLib New Library=Pi_AddOn_Rev2.SchLib
+Added Component: Designator=C9(Cap-Radial)
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=VIN Pin=C7-2
+Added Pin To Net: NetName=VBUS Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=NetD2_1 Pin=D1-A
+Added Pin To Net: NetName=GND Pin=D1-K
+Added Pin To Net: NetName=NetD1_1 Pin=D2-A
+Added Pin To Net: NetName=GND Pin=D2-K
+Added Pin To Net: NetName=NetD2_1 Pin=R3-1
+Added Pin To Net: NetName=NetD1_1 Pin=R4-1
+Change Net Name : Old Net Name=NetD1_1 New Net Name=NetD2_A
+Change Net Name : Old Net Name=NetD2_1 New Net Name=NetD1_A

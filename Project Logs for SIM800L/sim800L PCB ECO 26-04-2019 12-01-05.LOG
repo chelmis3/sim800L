@@ -1,0 +1,10 @@
+Change Component DesignItemId : Designator=C9 Old DesignItemId=Cap Pol1 New DesignItemId=Cap
+Change Component DesignItemId : Designator=C10 Old DesignItemId=Cap Pol1 New DesignItemId=Cap
+Change Component Footprint: Designator=C9 Old Footprint=0805-POL New Footprint=0805
+Change Component Footprint: Designator=C10 Old Footprint=0805-POL New Footprint=0805
+Change Component Comment : Designator=C9 Old Comment=Cap Pol1 New Comment=Cap
+Change Component Comment : Designator=C10 Old Comment=Cap Pol1 New Comment=Cap
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=VCC Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=VCC Pin=C10-2

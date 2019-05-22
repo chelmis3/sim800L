@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=L2 Old Footprint=2220 New Footprint=0805
+Change Component Footprint: Designator=C7 Old Footprint=Cap-Radial New Footprint=0805-POL
+Change Component Footprint: Designator=C9 Old Footprint=Cap-Radial New Footprint=0805-POL
+Change Component Footprint: Designator=C10 Old Footprint=Cap-Radial New Footprint=0805-POL

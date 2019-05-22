@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=VBUS Pin=C7-2
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=VCC Pin=C9-2
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Pin From Net: NetName=VCC Pin=C10-2
+Change Component DesignItemId : Designator=C9 Old DesignItemId=Cap New DesignItemId=Cap Pol1
+Change Component DesignItemId : Designator=C10 Old DesignItemId=Cap New DesignItemId=Cap Pol1
+Change Component Footprint: Designator=C9 Old Footprint=0805 New Footprint=0805-POL
+Change Component Footprint: Designator=C10 Old Footprint=0805 New Footprint=0805-POL
+Change Component Comment : Designator=C9 Old Comment=Cap New Comment=Cap Pol1
+Change Component Comment : Designator=C10 Old Comment=Cap New Comment=Cap Pol1
+Change Component Designator: OldDesignator=C45 NewDesignator=C7

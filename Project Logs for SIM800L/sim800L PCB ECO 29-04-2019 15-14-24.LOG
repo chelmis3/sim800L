@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=VBUS Pin=C7-1
+Removed Pin From Net: NetName=GND Pin=C7-2
+Change Component DesignItemId : Designator=D3 Old DesignItemId=D Schottky New DesignItemId=Schottky Diode
+Change Component Comment : Designator=D3 Old Comment=DO214AA New Comment=Schottky Diode
+Change Component Description : Designator=D3 Old Description=Schottky Diode New Description=
+Change Component Library : Designator=D3 Old Library=Miscellaneous Devices.IntLib New Library=sim800L_Schlib.SchLib
+Added Component: Designator=C9(Cap-Radial)
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=VIN Pin=C7-2
+Added Pin To Net: NetName=VBUS Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=D3-A
+Added Pin To Net: NetName=NetD3_2 Pin=D3-K
+Change Net Name : Old Net Name=NetD3_2 New Net Name=NetD3_K

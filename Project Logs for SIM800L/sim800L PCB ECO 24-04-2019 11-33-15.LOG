@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=L1 Old Footprint=6-0805_L New Footprint=0805
+Change Component Footprint: Designator=L2 Old Footprint=0603 New Footprint=2220
+Change Component Footprint: Designator=C8 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=C7 Old Footprint=2917-pol New Footprint=Cap-Radial
+Change Component Footprint: Designator=C9 Old Footprint=2917-pol New Footprint=Cap-Radial
+Change Component Footprint: Designator=C10 Old Footprint=2917-pol New Footprint=Cap-Radial
+Change Component Comment : Designator=D3 Old Comment=CDBB3200-HF New Comment=DO214AA
+Change Component Comment : Designator=D4 Old Comment=CDBB3200-HF New Comment=DO214AA
+Change Component Comment : Designator=U5 Old Comment=LM2596-ADJ New Comment=LM2596-5

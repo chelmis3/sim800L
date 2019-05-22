@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=VBUS Pin=C7-1
+Removed Pin From Net: NetName=GND Pin=C7-2
+Change Component DesignItemId : Designator=C7 Old DesignItemId=Cap Pol1 New DesignItemId=Cap
+Change Component Comment : Designator=C7 Old Comment=Cap Pol1 New Comment=Cap
+Change Component Description : Designator=C7 Old Description=Polarized Capacitor (Radial) New Description=Capacitor
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=VBUS Pin=C7-2

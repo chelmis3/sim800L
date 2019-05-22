@@ -1,0 +1,2 @@
+Change Component Comment : Designator=U5 Old Comment=LM2596-ADJ New Comment=LM2596
+Added Pin To Net: NetName=GND Pin=U5-0

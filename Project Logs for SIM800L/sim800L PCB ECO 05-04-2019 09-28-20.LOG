@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=D1 Old Footprint=0603-LED- POL New Footprint=LED-SMD-RightAngle
+Change Component Footprint: Designator=D2 Old Footprint=0603-LED- POL New Footprint=LED-SMD-RightAngle
+Change Component Footprint: Designator=L1 Old Footprint=1206L New Footprint=INDUCTOR
+Change Component Footprint: Designator=L2 Old Footprint=1206L New Footprint=INDUCTOR
+Change Component Footprint: Designator=L3 Old Footprint=1206L New Footprint=INDUCTOR

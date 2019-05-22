@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=VBUS Pin=C7-1
+Removed Pin From Net: NetName=GND Pin=C7-2
+Change Component DesignItemId : Designator=D6 Old DesignItemId=D Zener New DesignItemId=ZENER-DIODE
+Change Component Footprint: Designator=D6 Old Footprint=SOD123-POL New Footprint=SOD128-DIODE
+Change Component Comment : Designator=D6 Old Comment=5.1V/500mW/SOD123 New Comment=5.1V/500mW/SOD128ZENER
+Added Component: Designator=C9(Cap-Radial)
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=VIN Pin=C7-2
+Added Pin To Net: NetName=VBUS Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=D6-A
+Added Pin To Net: NetName=VCC Pin=D6-K

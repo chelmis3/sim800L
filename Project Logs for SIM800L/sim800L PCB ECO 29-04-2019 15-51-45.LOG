@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=VBUS Pin=C7-1
+Removed Pin From Net: NetName=GND Pin=C7-2
+Change Component DesignItemId : Designator=C9 Old DesignItemId=Cap Pol1 New DesignItemId=Cap-Pol
+Change Component DesignItemId : Designator=C10 Old DesignItemId=Cap Pol1 New DesignItemId=Cap-Pol
+Change Component DesignItemId : Designator=C14 Old DesignItemId=Cap Pol1 New DesignItemId=Cap-Pol
+Change Component Comment : Designator=C9 Old Comment=Cap Pol1 New Comment=2.2uF/3O
+Change Component Comment : Designator=C10 Old Comment=Cap Pol1 New Comment=2.2uF/3O
+Change Component Comment : Designator=C14 Old Comment=Cap Pol1 New Comment=100uF/0.7O/2917
+Change Component Description : Designator=C9 Old Description=Polarized Capacitor (Radial) New Description=
+Change Component Description : Designator=C10 Old Description=Polarized Capacitor (Radial) New Description=
+Change Component Description : Designator=C14 Old Description=Polarized Capacitor (Radial) New Description=
+Change Component Library : Designator=C9 Old Library=Miscellaneous Devices.IntLib New Library=sim800L_Schlib.SchLib
+Change Component Library : Designator=C10 Old Library=Miscellaneous Devices.IntLib New Library=sim800L_Schlib.SchLib
+Change Component Library : Designator=C14 Old Library=Miscellaneous Devices.IntLib New Library=sim800L_Schlib.SchLib
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=VIN Pin=C7-2
+Added Pin To Net: NetName=VBUS Pin=C9-A
+Added Pin To Net: NetName=GND Pin=C9-K
+Added Pin To Net: NetName=VBUS Pin=C10-A
+Added Pin To Net: NetName=GND Pin=C10-K
+Added Pin To Net: NetName=VCC Pin=C14-A
+Added Pin To Net: NetName=GND Pin=C14-K

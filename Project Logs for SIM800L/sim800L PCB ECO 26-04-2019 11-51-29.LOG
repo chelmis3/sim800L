@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=C7 Old Footprint=0805-POL New Footprint=0603
+Added Pin To Net: NetName=VBUS Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
