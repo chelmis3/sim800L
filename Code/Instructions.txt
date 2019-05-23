@@ -1,0 +1,3 @@
+sim800l.sh
+----------------------------------------------
+sudo minicom -S sim800l.sh -C output.txt
