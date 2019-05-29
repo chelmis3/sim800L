@@ -1,3 +1,9 @@
 sim800l.sh
 ----------------------------------------------
 sudo minicom -S sim800l.sh -C output.txt
+
+
+sim800l.py
+---------------------------------------------
+run python script using python (I used python3)
+At the same time, monito AT commands on a serial monitor such as minicom
